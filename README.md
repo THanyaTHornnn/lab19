@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Thanyathorn Partumman
+# STUDENT ID: 670612124
